@@ -8,3 +8,9 @@
 
 # Two books do not upload beacuse them are large than 30MB.
 # Please search those no-upload books if you need.
+
+# The better way to get the ebook is search book name add "PDF" or "Github"
+# Why for ebook, as i see it, ebook less weight, removeable, always stay with you or pc via the internet
+# Also, You cannot read a book well unless it is borrowed from others. 
+# As far as I'm concrened, ebook is borrowed from others.
+# Finally, having a paper book is the best.
