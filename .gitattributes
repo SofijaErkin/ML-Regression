@@ -1,2 +1,4 @@
 *.py linguist-language=Python
 *.cpp linguist-language=C++
+*.csv linguist-language=EXCEL
+*.ipynb linguist-language=Jupyter Notebook
